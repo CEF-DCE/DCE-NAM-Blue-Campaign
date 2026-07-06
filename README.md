@@ -40,22 +40,29 @@ Here is a list of Mods used in this campaign (flyable planes or not) :
 - SH-3D            IA only        ------------Aerojust----------        https://www.digitalcombatsimulator.com/fr/files/3316150/
 
 Here is a list of all flyable planes/helicopteres :
+<img width="1472" height="815" alt="planescreen_F-4E-45MC" src="https://github.com/user-attachments/assets/69f018cb-4ce1-407d-85e7-e77779482596" />
+
 - F-4E: the main aircraft of the campaign, specifically designed for it: this multi-mission aircraft could adapt to all phases of the campaign from 1965 to 1972. Three squadrons were available:
 The 421 and 433 TFS based at Rovaniemi/Da Nang. The default choice for the campaign, with reduced flight times, especially at the beginning.
 The 469th TFS, based at Kallax/U-Tapao, is much further away. Purists will appreciate this, as it allows for flight profiles closer to reality, but it can be off-putting and poses some problems for the AI with fuel management (they generally glitch when using tankers).
 
 - F-100D : This legendary aircraft enjoyed its glory days in Vietnam. Highly demanding, it requires meticulous attention to detail to get the best performance from it.
 The 615th TFS, based at Nakhon Phanom, is located closest to the Ho Chi Minh Trail and was also the first aircraft to perform SEAD.
+<img width="800" height="329" alt="planescreen_A-4E-C" src="https://github.com/user-attachments/assets/a4462111-6680-4d56-a547-6fc5d272ac9a" />
 
 - A-4E-C: This exceptional mod is obviously essential for a Vietnam War campaign. Two squadrons are available:
 VA-163, based on the CV-59 Forrestal off the Gulf of Tonkin (southeast of the combat zone). Active by default, this squadron allows you to experience naval air operations. The major drawback is the distance to targets, especially at the beginning of the campaign.
 VMA-121 was established in Rovaniemi/Da Nang to be closer to targets. It is deactivated by default.
+<img width="800" height="406" alt="planescreen_VSN_F105D" src="https://github.com/user-attachments/assets/95db4ac7-581c-49ed-bd3c-df3c17e8218a" />
 
 - VSN-F105D: This mod, with simplified avionics, is primarily intended as an AI but can also be selected. Essential in the Vietnam theater, this aircraft of the 333rd TFS is based at Bodø/Thakly and mainly performs ground attack missions. Flights will be long and certainly quite dangerous when attacking targets north of the DMZ.
+<img width="800" height="435" alt="planescreen_VSN_F105G" src="https://github.com/user-attachments/assets/99a4d0ba-a2a0-4d66-9f14-2b2da352e563" />
 
 - VSN-F105G: This mod, with simplified avionics, is primarily intended as an AI but can also be selected. This aircraft, unavailable at the start of the campaign, appears very early and has two very interesting missions: SEAD and Jammer, benefiting other strikers. The 128th TFS squadron is based at Bodø/Thakly, resulting in very long and potentially very risky flights deep within the North Vietnamese defenses.
+<img width="800" height="383" alt="planescreen_F-5E-3" src="https://github.com/user-attachments/assets/c1b528e2-acbf-4ae9-b87c-35f798b51eba" />
 
 - F-5-E-3: This module, which appeared late in the campaign within the RVNAF 522nd FS (South Vietnamese Air Force), will allow air-to-ground attacks to be conducted from the Da Nang base.
+<img width="1327" height="717" alt="planescreen_F111C" src="https://github.com/user-attachments/assets/bc3968aa-5c41-4020-9310-9b287c007e47" />
 
 - F-111C: This relatively recent mod is flyable and deserves a place in this NAM campaign, which is its first operational theater. Its avionics are simplified, but flying low over treetops within North Vietnamese defenses is thrilling. The 428th TFS is based at Bodø/Takhli, which means a very long journey. The unit appears late in the campaign in 1972, but it will have to face reinforced defenses.
 
@@ -64,10 +71,12 @@ VMA-121 was established in Rovaniemi/Da Nang to be closer to targets. It is deac
 - VSN_F-4C : This mod will allow you to fly with the 433 TFS based on Da Nang if you don’t have Heat Blur F-4E module.
 
 - VSN_F104C: This original mod allows you to pilot this legendary fighter jet. Primarily used for CAP (Combat Airborne) or escort missions, this aircraft, based in Da Nang with the 479th TFS (Tactical Flight Support Squadron), is available from the start of the campaign. The first missions on the Ho Chi Minh Trail might offer an opportunity to try ground attack if enemy MiGs don't appear.
+<img width="800" height="392" alt="planescreen_Bronco-OV-10A" src="https://github.com/user-attachments/assets/07a7654a-5e9c-4c77-8719-d0751e318609" />
 
 - OV-10 Bronco: This highly original mod's primary mission in AI mode is to designate targets along the Ho Chi Minh Trail. Selected by a player, it can enable risky ground attack missions against targets near Vuojarvi/Khe Sanh, with the invaluable support of the artillery script provided by Don Rudi of the 504th FAC.
 
 - C-130J-30/ Hercules Mod: Whether using the official module or the free mod, the C-130's missions are currently limited to purely cosmetic transport missions with no impact on the campaign. We hope to be able to make changes later to encourage their use.
+<img width="800" height="447" alt="planescreen_UH-1H" src="https://github.com/user-attachments/assets/89c5d9cc-e383-4fa2-a398-9f06c069849b" />
 
 - UH-1H Huey: This helicopter is the workhorse of the US Army in Vietnam. It performs SAR and CSAR missions, as well as some short-range ground attack missions. While it remains vulnerable, it can also utilize artillery scripts and allows for the recovery of a maximum number of ejected US pilots. It is strongly recommended to select the 160th SOAR Det 1 based at Vuojarvi/Khe Sanh. In the event of a SAR mission, if no pilot needs to be recovered at the start, it is advisable to conduct a reconnaissance/strike mission on the Ho Chi Minh track just north of the base.
 
