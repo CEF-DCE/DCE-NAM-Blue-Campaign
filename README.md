@@ -7,6 +7,7 @@ Download : See the Release section to the right.
 Il s agit d une campagne semi-historique sensée représenter une certaine vision de la guerre du Vietnam. La campagne est construite autour du F-4E Phantom mais d autres avions ou helicoptères sont disponibles que ce soit pour des campagnes en solo ou en multijoueur avec plusieurs types d avions et de missions. Les aeronefs et les armements evolueront au fil de cette campagne tout comme les cibles autorisées. Même si les regles d engagements ne suivent pas exactement la chronologie historique elles permettent de ressentir la frustration qu elles ont pu engendrer à l epoque pour les aviateurs qui y étaient confrontées.
 
 Le lien de chargement se trouve à droite.
+<img width="1000" height="543" alt="Frontline" src="https://github.com/user-attachments/assets/404ec2fe-3a96-43d5-a5b7-c904df7e84ac" />
 
 Using Mbot Dynamic Campaign Engine modified by Miguel21, fly in an immersive dynamic system which will record your destructions and losses. Each mission will be different with CAP, STRIKE, ESCORT, INTERCEPTIONS, etc... You will have support by Tankers, AWACS (The first ones) and many allied fighters and bombers.  Please read the PDF file to install and play this campaign.
 Use the DCE_Manager to install and choose which squadron you will fly for : New concept with one Campaign and the possibility to clone it to fly with one of the many aircrafts provided : some are active and will fly in the campaign as AI but others will wait for you to activate them ...
